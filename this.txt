@@ -1,4 +1,4 @@
 This is from master 2
 This is from dev of developer
 
-Name: Samadhan Sutar
+Name: Samadhan M Sutar
